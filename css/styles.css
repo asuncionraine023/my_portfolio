@@ -174,5 +174,9 @@ ul.timeline-list li:before {
 }
 
 .contact-section {
-  height: auto;
+  height: 100vh;
+}
+
+.border-warning {
+  border-radius: ;
 }
